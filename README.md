@@ -518,14 +518,10 @@ If you use this work in your research, please cite:
 ```
 
 ## 👥 Complete Author List
-
-### Lead Authors (Equal Contribution*)
 - **Rizwan Qureshi**¹* - Center for Research in Computer Vision, University of Central Florida
 - **Ranjan Sapkota**²* - Department of Biological and Environmental Engineering, Cornell University
 - **Abbas Shah**³* - Department of Electronics Engineering, Mehran University of Engineering & Technology
 - **Amgad Muneer**⁴* - Department of Imaging Physics, The University of Texas MD Anderson Cancer Center
-
-### Contributing Authors
 - **Anas Zafar**⁴ - Department of Imaging Physics, The University of Texas MD Anderson Cancer Center
 - **Ashmal Vayani**¹ - Center for Research in Computer Vision, University of Central Florida
 - **Maged Shoman**⁵ - Intelligent Transportation Systems, University of Tennessee
