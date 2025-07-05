@@ -306,7 +306,7 @@ If you use this work in your research, please cite:
 This research represents a truly **international collaboration** spanning:
 - **8 Countries**: United States, Canada, United Kingdom, Hong Kong, Pakistan, Turkey, Australia, Hungary
 - **15 Institutions**: Leading universities and research centers worldwide
-- **16 Authors**: Experts from diverse fields including AI, neuroscience, engineering, and cognitive science
+- **20 Authors**: Experts from diverse fields including AI, neuroscience, engineering, and cognitive science
 - **Multiple Disciplines**: Computer Vision, AI Safety, Neuroscience, Engineering, Physics, and Philosophy
 
 ### Research Domains Represented
