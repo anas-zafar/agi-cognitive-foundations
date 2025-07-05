@@ -23,7 +23,7 @@ This paper offers a **cross-disciplinary synthesis** of AGI development, spannin
 
 ### Why Token-Level Prediction Alone is Insufficient for AGI
 
-Current models like GPT-4, DeepSeek, and Grok capture surface linguistic patterns but fail to support complex mental representations grounded in the physical world. Lacking embodiment, causality, and self-reflection, they struggle with abstraction and goal-directed behavior—core requirements for AGI.
+Current models like GPT-4, DeepSeek, and Grok capture surface linguistic patterns but fail to support complex mental representations grounded in the physical world. Lacking embodiment, causality, and self-reflection, they struggle with abstraction and goal-directed behavior core requirements for AGI.
 
 ### Beyond Scaling: The Need for Architectural Innovation
 
