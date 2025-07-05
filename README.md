@@ -3,7 +3,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2507.00951-b31b1b.svg)](https://arxiv.org/abs/2507.00951)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-380/)
-[![GitHub Stars](https://github.com/anas-zafar/agi-cognitive-foundations)](https://github.com/your-username/agi-cognitive-foundations)
+[![GitHub Stars](https://img.shields.io/github/stars/your-username/agi-cognitive-foundations?style=social)](https://github.com/anas-zafar/agi-cognitive-foundations)
 
 > **Abstract**: Can machines truly think, reason and act in domains like humans? This enduring question continues to shape the pursuit of Artificial General Intelligence (AGI). Despite the growing capabilities of models such as GPT-4.5, DeepSeek, Claude 3.5 Sonnet, Phi-4, and Grok 3, which exhibit multimodal fluency and partial reasoning, these systems remain fundamentally limited by their reliance on token-level prediction and lack of grounded agency.
 
