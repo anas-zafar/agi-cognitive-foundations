@@ -1,5 +1,7 @@
 # Thinking Beyond Tokens: From Brain-Inspired Intelligence to Cognitive Foundations for Artificial General Intelligence and its Societal Impact
 
+
+
 [![arXiv](https://img.shields.io/badge/arXiv-2507.00951-b31b1b.svg)](https://arxiv.org/abs/2507.00951)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-380/)
@@ -603,6 +605,27 @@ For questions, collaborations, or discussions:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 📄 Paper
+
+**Title:**  
+[Thinking Beyond Tokens: From Brain‑Inspired Intelligence to Cognitive Foundations for Artificial General Intelligence and its Societal Impact](https://arxiv.org/abs/2507.00951)
+
+[![arXiv](https://img.shields.io/badge/arXiv-2507.00951-b31b1b.svg)](https://arxiv.org/abs/2507.00951)
+
+---
+
+## 📚 Citation
+
+If you use this work, please cite it as:
+
+```bibtex
+@article{qureshi2025thinking,
+  title={Thinking Beyond Tokens: From Brain-Inspired Intelligence to Cognitive Foundations for Artificial General Intelligence and its Societal Impact},
+  author={Qureshi, Rizwan and Sapkota, Ranjan and Shah, Abbas and Muneer, Amgad and Zafar, Anas and Vayani, Ashmal and Shoman, Maged and Eldaly, Abdelrahman and Zhang, Kai and Sadak, Ferhat and Raza, Shaina and Fan, Xinqi and Shwartz-Ziv, Ravid and Yan, Hong and Jain, Vinjia and Chadha, Aman and Karkee, Manoj and Wu, Jia and Torr, Philip and Mirjalili, Seyedali},
+  journal={arXiv preprint arXiv:2507.00951},
+  year={2025}
+}
+```
 ## 🙏 Acknowledgments
 
 We thank the global AI research community for their foundational contributions to understanding intelligence, consciousness, and the path toward AGI. Special recognition to the institutions and funding bodies that supported this interdisciplinary research effort.
