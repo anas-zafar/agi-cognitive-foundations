@@ -45,7 +45,7 @@ While scaling improves fluency and performance on many tasks, it cannot resolve 
 | **AutoGPT** | Apr 2023 | Objective-driven execution with agents | [[GitHub](https://github.com/Significant-Gravitas/Auto-GPT)] [[Try Online](https://godmode.space/)] | ✅ Available |
 | **BabyAGI** | Apr 2023 | Task expander loop architecture | [[GitHub](https://github.com/yoheinakajima/babyagi)] [[Article](https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/)] | ✅ Available |
 | **MetaGPT** | Aug 2023 | Multi-agent framework for software development | [[GitHub](https://github.com/geekan/MetaGPT)] [[Paper](https://arxiv.org/abs/2308.00352)] | ✅ Available |
-| **ReAct** | 2022 | Synergizing reasoning and acting | [[Paper](https://arxiv.org/abs/2210.03629)] [[GitHub](https://github.com/ysymyth/ReAct)] | ✅ Available |
+| **ReAct** | Oct 2022 | Synergizing reasoning and acting | [[Paper](https://arxiv.org/abs/2210.03629)] [[GitHub](https://github.com/ysymyth/ReAct)] | ✅ Available |
 | **HuggingGPT/JARVIS** | Mar 2023 | Model calls specialized models for input | [[Paper](https://arxiv.org/abs/2303.17580)] [[GitHub](https://github.com/microsoft/JARVIS)] | ✅ Available |
 | **Reflexion** | Mar 2023 | Autonomous agent with dynamic memory | [[Paper](https://arxiv.org/abs/2303.11366)] [[GitHub](https://github.com/noahshinn024/reflexion)] | ✅ Available |
 
