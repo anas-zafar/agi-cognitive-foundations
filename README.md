@@ -35,6 +35,9 @@ While scaling improves fluency and performance on many tasks, it cannot resolve 
 - Persistent memory
 - Goal-directed behavior
 
+## Video Presentations and Blogs
+1 - [Video Presentation by Richard Aragson](https://www.youtube.com/watch?v=DgQQbtcfnJ8)
+2 - [Medium Blogs](https://noailabs.medium.com/thinking-beyond-tokens-new-review-paper-from-bunch-of-research-institutions-d37de336905f)
 ## 🚀 Research Highlights
 
 ### 🎭 Reasoning Systems
