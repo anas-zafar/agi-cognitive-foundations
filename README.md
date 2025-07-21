@@ -36,8 +36,13 @@ While scaling improves fluency and performance on many tasks, it cannot resolve 
 - Goal-directed behavior
 
 ## Video Presentations and Blogs
+
 1 - [Video Presentation by Richard Aragson](https://www.youtube.com/watch?v=DgQQbtcfnJ8)
 2 - [Medium Blogs](https://noailabs.medium.com/thinking-beyond-tokens-new-review-paper-from-bunch-of-research-institutions-d37de336905f)
+3 - [Linkedin Posts 1](https://www.linkedin.com/posts/rizwan-qureshi-224b99114_thinking-beyond-tokens-from-brain-inspired-activity-7345991417372057601-PH4q?utm_source=share&utm_medium=member_desktop&rcm=ACoAABym2vwBdft_5PVevFKuvX5WFu4mc9IFxJ4)
+4 - [Linkedin Posts 2](https://www.linkedin.com/posts/amanc_artificialintelligence-genai-research-activity-7352212516925591552-R63u?utm_source=share&utm_medium=member_desktop&rcm=ACoAABym2vwBdft_5PVevFKuvX5WFu4mc9IFxJ4)
+5 - [Linkedin Posts 3](https://www.linkedin.com/posts/vinija_announcing-our-paper-that-proposes-a-unified-activity-7352213802110607361-1r5l?utm_source=share&utm_medium=member_desktop&rcm=ACoAABym2vwBdft_5PVevFKuvX5WFu4mc9IFxJ4)
+
 ## 🚀 Research Highlights
 
 ### 🎭 Reasoning Systems
